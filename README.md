@@ -1,10 +1,10 @@
 <!--
   HOW TO CUSTOMIZE
   Replace every placeholder below:
-    YOUR_USERNAME   -> your GitHub username (e.g. octocat)
-    Your Name       -> your full name
-    Your Role       -> e.g. Software Engineer | Full-Stack Developer
-    your-linkedin   -> your LinkedIn profile slug
+    YOUR_USERNAME   -> LabeebAshhab
+    Your Name       -> Labeeb Ashhab
+    Your Role       -> Software Engineer | Full-Stack Developer
+    your-linkedin   -> 
     you@example.com -> your public contact email
     yourwebsite.com -> your portfolio/website (or delete that badge)
   Delete any section or badge that does not apply to you.
