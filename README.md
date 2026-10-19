@@ -1,11 +1,11 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Labeeb%20Ashhab&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Aspiring%20Machine%20Learning%20Engineer%20%E2%80%A2%20CSE%20%40%20AIUB&descAlignY=58&descSize=18&animation=fadeIn" alt="Labeeb Ashhab" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Labeeb%20Ashhab&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Data%20Science%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Business%20Intelligence&descAlignY=58&descSize=18&animation=fadeIn" alt="Labeeb Ashhab" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://me.astroit.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+Intelligent+Systems.;RAG+%E2%80%A2+Knowledge+Graphs+%E2%80%A2+Local+LLMs;Healthcare+ML+Research+%40+AIRIL;Turning+data+into+practical+software." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Data+Science+%E2%80%A2+AI%2FML;Business+Intelligence+%E2%80%A2+Revenue+Assurance;RAG+%E2%80%A2+Knowledge+Graphs+%E2%80%A2+Local+LLMs" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,56 +18,26 @@
 
 <br/>
 
-## 👋 About Me
+## About
 
-I'm an **aspiring Machine Learning Engineer** and **Computer Science & Engineering** student at
-[American International University–Bangladesh (AIUB)](https://www.aiub.edu/). I enjoy turning complex data
-and algorithms into practical software, from predictive models to intelligent data pipelines and
-privacy-first local AI systems.
-
-My work spans **academic research** and **applied development**. I'm currently a part-time Research Student
-at **AIRIL** (Artificial Intelligence Research & Innovation Lab), working on healthcare-focused machine learning.
-
-```yaml
-name:        Labeeb Ashhab
-role:        Aspiring ML Engineer · Research Student @ AIRIL
-education:   BSc in Computer Science & Engineering — AIUB (2022 – Present)
-location:    Dhaka, Bangladesh 🇧🇩
-focus:       [Machine Learning, RAG, Knowledge Graphs, Local LLMs, Data Pipelines]
-looking_for: ML / AI internship or junior role
-off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
-```
-
-> [!NOTE]
-> 🎯 **Open to opportunities:** I'm looking for an **internship or junior role** in Machine Learning / AI engineering.
-> Feel free to [reach out](mailto:labeebashhabswift@gmail.com).
+Data Scientist and AI/ML engineer with experience in **Business Intelligence** and **Revenue Assurance**.
+CSE student at [AIUB](https://www.aiub.edu/), based in Dhaka, Bangladesh.
 
 <br/>
 
-## 🔬 Research & Experience
+## Experience
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🧠 Research Student (Part-time) | AIRIL</h3>
-      <sub><b>Artificial Intelligence Research & Innovation Lab</b> · Dhaka, Bangladesh · <i>Apr 2026 – Present</i></sub>
-      <ul>
-        <li>Conduct machine-learning research focused on <b>healthcare</b> and <b>domain-specific AI</b>.</li>
-        <li>Design and evaluate predictive models, including a <b>modified K-NN algorithm for early lung-cancer detection</b> tailored to hospital environments.</li>
-        <li>Work with faculty supervisors to compile datasets, define evaluation metrics, and prepare findings for <b>conference and journal publication</b>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Intern, Business Assurance Team** · [Nagad](https://nagad.com.bd/)  
+Technology & Business Assurance Department · *Present*
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/LabeebAshhab/RHLC">RHLC: Legal AI Agent</a></h3>
+      <h3><a href="https://github.com/LabeebAshhab/RHLC">RHLC: Legal AI Agent</a></h3>
       <p>A legal-domain AI agent for the <b>Bangladesh Penal Code</b> that combines <b>RAG</b>, <b>Cache-Augmented Generation</b>, and <b>Knowledge Graphs</b>, with custom <b>hallucination detection</b>, re-ranking, and an ablation evaluation suite.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -78,7 +48,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/LabeebAshhab/initial_agent">Local AI Agent</a></h3>
+      <h3><a href="https://github.com/LabeebAshhab/initial_agent">Local AI Agent</a></h3>
       <p>A <b>locally hosted AI agent</b> using <b>Ollama</b> for on-device LLM inference with RAG. It runs tasks privately and securely, with no external APIs.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -89,7 +59,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/LabeebAshhab/_fb_post_analysis_">Facebook Semantic Analysis Pipeline</a></h3>
+      <h3><a href="https://github.com/LabeebAshhab/_fb_post_analysis_">Facebook Semantic Analysis Pipeline</a></h3>
       <p>An end-to-end NLP pipeline that collects and cleans social-media text, then compares two unsupervised approaches, <b>CTM (Contextualized Topic Model)</b> and <b>SciBERT embeddings + K-Means</b>, using auditable cluster-to-label mapping.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -99,7 +69,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🕸️ <a href="https://github.com/LabeebAshhab/_neo4j_graph_">KGN4j: Transaction Knowledge Graph</a></h3>
+      <h3><a href="https://github.com/LabeebAshhab/_neo4j_graph_">KGN4j: Transaction Knowledge Graph</a></h3>
       <p>A data pipeline that moves transaction statements from <b>CSV</b> into <b>PostgreSQL</b> and then <b>Neo4j</b> (via APOC JDBC), explored in <b>NeoDash</b> through a click-to-expand drill-down graph next to a data table.</p>
       <p>
         <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
@@ -111,7 +81,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔎 <a href="https://github.com/LabeebAshhab/fb_scraper_v2">Configurable Facebook Scraper</a></h3>
+      <h3><a href="https://github.com/LabeebAshhab/fb_scraper_v2">Configurable Facebook Scraper</a></h3>
       <p>A YAML-configurable scraping pipeline built on <b>SeleniumBase</b> and <b>BeautifulSoup</b> that extracts posts, comments, and replies into clean <b>JSON</b>, ready for preprocessing, RAG, or knowledge-graph work.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -120,7 +90,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⌨️ <a href="https://github.com/LabeebAshhab/Desk_Mate_Mkeys">Desk Mate: Macro Pad & PC Monitor</a></h3>
+      <h3><a href="https://github.com/LabeebAshhab/Desk_Mate_Mkeys">Desk Mate: Macro Pad & PC Monitor</a></h3>
       <p>A hand-wired <b>ESP32-S3</b> macro pad with an OLED display and rotary encoder. A Python backend streams real-time Windows telemetry and media info, and a C++ display engine drives animations and native <b>USB-HID</b> multi-key macros.</p>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -131,7 +101,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/LabeebAshhab/WebTechLab">Book Borrow System</a></h3>
+      <h3><a href="https://github.com/LabeebAshhab/WebTechLab">Book Borrow System</a></h3>
       <p>A library-management web app with robust search and borrowing flows, a custom <b>token system</b> for long-term loans, and cookie-based history tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -141,7 +111,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🛒 <a href="https://github.com/LabeebAshhab/Retro-Vape-Shop">Retro Vape Shop</a></h3>
+      <h3><a href="https://github.com/LabeebAshhab/Retro-Vape-Shop">Retro Vape Shop</a></h3>
       <p>A role-based e-commerce desktop application with secure age verification, admin dashboards for user management, and a customer portal with product search and payment processing.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -152,7 +122,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
 </table>
 
 <details>
-  <summary><b>🤝 Collaborative work</b></summary>
+  <summary><b>Collaborative work</b></summary>
   <br/>
 
 | Project | Description | Stack |
@@ -162,13 +132,13 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
 
 </details>
 
-<p align="right"><a href="https://github.com/LabeebAshhab?tab=repositories">➜ See all repositories</a></p>
+<p align="right"><a href="https://github.com/LabeebAshhab?tab=repositories">See all repositories →</a></p>
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**🧠 AI / ML & Data**
+**AI / ML & Data**
 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -179,7 +149,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
   <img src="https://img.shields.io/badge/NetworkX-2E7D32?style=for-the-badge" />
 </p>
 
-**💻 Languages**
+**Languages**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -191,7 +161,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-**⚙️ Backend & Web**
+**Backend & Web**
 
 <p>
   <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -202,7 +172,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
   <img src="https://img.shields.io/badge/React%20(learning)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-**🗄️ Databases**
+**Databases**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -212,7 +182,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-**🔧 Tools & Hardware**
+**Tools & Hardware**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -227,7 +197,7 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
 
 <br/><br/>
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LabeebAshhab&custom_title=Labeeb's%20GitHub%20Stats&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="GitHub stats" />
@@ -244,18 +214,18 @@ off_hours:   [Esports 🎮, Instrumental music production 🎹, Films 🎬]
 
 <br/>
 
-## ✍️ From My Blog
+## From My Blog
 
-- 🧭 [A Beginner's Guide to Machine Learning Models](https://me.astroit.org/blog/a-beginners-guide-to-machine-learning-models)
-- 🛡️ [The Anatomy of a Phishing Attack](https://me.astroit.org/blog/the-anatomy-of-a-phishing-attack)
-- ⛓️ [Demystifying Blockchain: A Beginner's Guide](https://me.astroit.org/blog/demystifying-blockchain-a-beginners-guide)
-- 🧩 [Choosing Your Web Framework: React vs. Vue vs. Angular](https://me.astroit.org/blog/choosing-your-web-framework-react-vs-vue-vs-angular)
+- [A Beginner's Guide to Machine Learning Models](https://me.astroit.org/blog/a-beginners-guide-to-machine-learning-models)
+- [The Anatomy of a Phishing Attack](https://me.astroit.org/blog/the-anatomy-of-a-phishing-attack)
+- [Demystifying Blockchain: A Beginner's Guide](https://me.astroit.org/blog/demystifying-blockchain-a-beginners-guide)
+- [Choosing Your Web Framework: React vs. Vue vs. Angular](https://me.astroit.org/blog/choosing-your-web-framework-react-vs-vue-vs-angular)
 
-<sub>➜ More posts at <a href="https://me.astroit.org/#blog">me.astroit.org/#blog</a></sub>
+<sub>More posts at <a href="https://me.astroit.org/#blog">me.astroit.org/#blog</a></sub>
 
 <br/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://me.astroit.org"><img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
